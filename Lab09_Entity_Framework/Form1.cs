@@ -202,6 +202,7 @@ namespace Lab09_Entity_Framework
 			{
 				ShowFoodsForNode(tvwCategory.SelectedNode);
 			}
+
 		}
 	}
 }
